@@ -1,3 +1,5 @@
 
-minecraft-data/logs/*
-minecraft-data/world/*
+minecraft-data/logs/
+minecraft-data/world/
+minecraft-data/usercache.json
+minecraft-data/usernamecache.json
